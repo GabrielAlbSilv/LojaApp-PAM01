@@ -22,7 +22,7 @@
             android:src="@drawable/logo" />
 
 
-        <EditText android:inputType="textEmailAddress" <!-- Abrindo possibilidade do usuário inserir o seu email-->
+        <EditText android:inputType="textEmailAddress"  
         android:drawableTop="@drawable/ic_baseline_person"
         android:padding="10sp"
         android:layout_width="wrap_content"
@@ -31,7 +31,7 @@
         android:layout_marginBottom="10dp"
         android:hint="Insira seu e-mail" />
 
-        <EditText android:inputType="numberPassword"<!-- Abrindo possibilidade do usuário inserir a senha-->
+        <EditText android:inputType="numberPassword"
         android:drawableTop="@drawable/ic_baseline_lock"
         android:padding="10sp"
         android:layout_width="wrap_content"
