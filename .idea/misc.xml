@@ -4,7 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android/Aplicativos/LojaApp/app/src/main/res/drawable/ic_baseline_person.xml" value="0.11041666666666666" />
-        <entry key="..\:/Android/Aplicativos/LojaApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android/Aplicativos/LojaApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Android/Aplicativos/LojaApp/app/src/main/res/layout/menu_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Aplicativos/LojaApp/app/src/main/res/layout/modelo.xml" value="0.16510416666666666" />
+        <entry key="..\:/Android/Aplicativos/LojaApp/app/src/main/res/layout/modelo_loja.xml" value="0.16510416666666666" />
+        <entry key="..\:/Android/Aplicativos/LojaApp/app/src/main/res/layout/sobre_layout.xml" value="0.20364583333333333" />
+        <entry key="..\:/Android/Aplicativos/LojaApp/app/src/main/res/layout/splash_activty_layout.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>

@@ -9,15 +9,34 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.LojaApp">
+
+
+        <activity
+            android:name=".Sobre"
+            android:exported="true" />
+        <activity
+            android:name=".Termo"
+            android:exported="true" />
+        <activity
+            android:name=".SplashActivty"
+            android:exported="true" >
+
+        <intent-filter>  <!--Fazendo a tela splash ser a primeira a executar-->
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+    </activity>
+
+    <activity
+            android:name=".Login"
+            android:exported="true" />
+        <activity
+            android:name=".Menu"
+            android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
     </application>
-
 </manifest>
